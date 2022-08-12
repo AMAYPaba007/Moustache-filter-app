@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+}
+canvas{
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px solid black;
+
+}
+body{
+    background-image: url('background.jpg');
+}
+.snapshot{
+    margin: 10px;
+    size: large;
+
+}
